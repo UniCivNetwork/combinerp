@@ -64,7 +64,7 @@ var l_background = "bluefall.webm";
 // Also, the image needs to be in .jpg format
 // E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 // 'true' or 'false'
-var l_bgImageMapBased = true;
+var l_bgImageMapBased = false;
 
 // (Image-background only)
 // Place one or more images
